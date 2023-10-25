@@ -1,0 +1,3 @@
+/temp/file1.c
+/var/file.ext
+/root/www/files/
